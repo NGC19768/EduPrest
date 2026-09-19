@@ -8,4 +8,4 @@ El sistema permite controlar la disponibilidad de los recursos, registrar presta
 - Evelyn Damian Garcia - project manager
 - Álvaro de Jesús Hernández Ramírez - Programador 1
 - Jesús Julián Ramos Guzmán - Programar 2
-- 
+- Juan Francisco Portillo Trujillo
