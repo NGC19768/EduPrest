@@ -7,5 +7,5 @@ El sistema permite controlar la disponibilidad de los recursos, registrar presta
 # Integrantes
 - 
 - Álvaro de Jesús Hernández Ramírez - Programador 1
-- 
+- Jesús Julián Ramos Guzmán - Programar 2
 - 
